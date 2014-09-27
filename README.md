@@ -17,8 +17,8 @@ Connecting the RF24 is not that hard if you follow any of the schemas below:
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
   NRF24L01    Arduino  Raspberry
   
-  1           3.3v     3.3v
-  2           GND      GND
+  1           GND      GND
+  2           3.3v     3.3v
   3           D9       22
   4           D10      CS0
   5           D13      SCLK

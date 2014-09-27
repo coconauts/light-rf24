@@ -19,8 +19,8 @@ Harware configuration:
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾ 
   Arduino:
   
-  1 -> 3.3v
-  2 -> GND
+  1 -> GND
+  2 -> 3.3v
   3 -> D9
   4 -> D10
   5 -> D13
